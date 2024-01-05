@@ -1,0 +1,14 @@
+module apple_generator_testbench();
+
+	logic [15:0][15:0] RedPixels;
+	logic [15:0][15:0] GrnPixels;
+	logic [7:0] random;
+	logic clk, reset;
+	
+	parameter CLOCK_PERIOD = 100;
+	initial begin
+		clk <= 0;
+		forever #(CLOCK_PERIOD) clk <= ~clk;
+	end
+
+endmodule  //apple_generator_testbench
