@@ -1,0 +1,21 @@
+|lab3
+LEDR[0] <= nordstrom:detector.discounted
+LEDR[1] <= nordstrom:detector.stolen
+SW[0] => SW[0].IN1
+SW[1] => SW[1].IN1
+SW[2] => SW[2].IN1
+SW[3] => SW[3].IN1
+
+
+|lab3|nordstrom:detector
+discounted <= discounted.DB_MAX_OUTPUT_PORT_TYPE
+stolen <= stolen.DB_MAX_OUTPUT_PORT_TYPE
+U => discounted.IN0
+U => stolen.IN0
+P => discounted.IN1
+P => stolen.IN0
+C => discounted.IN1
+C => stolen.IN1
+M => stolen.IN1
+
+

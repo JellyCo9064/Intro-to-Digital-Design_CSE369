@@ -1,0 +1,3 @@
+module counter256_testbench ();
+
+endmodule  // counter256_testbench

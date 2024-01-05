@@ -1,0 +1,52 @@
+module fred (
+	output logic [6:0] HEX0, HEX1, HEX2, HEX3, HEX4, HEX5
+	,input logic U, P, C
+	);
+	
+	always_comb begin
+		case ({U, P, C})
+		
+			3'b000:
+				// Potato Crown
+				HEX5 = 7'b1110011;  // P
+				HEX5 = 7'b1111110;  // O
+				HEX5 = 7'b1110111;  // t
+				HEX5 = 7'b0001111;  // A
+				HEX5 = 7'b1110111;  // t
+				HEX5 = 7'b1111110;  // O
+			3'b001:
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+			3'b011:
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+			3'b100:
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+			3'b101:
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+			3'b110:
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+				HEX5 = 7'b0000000;
+			default:

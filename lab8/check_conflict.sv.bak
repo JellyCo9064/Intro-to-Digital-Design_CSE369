@@ -1,0 +1,9 @@
+module check_conflict (
+	output logic conflict
+	,input logic [15:0][15:0] red
+	,input logic [15:0][15:0] grn
+	);
+	
+	assign conflict = (red[0] & grn[0] == 0)
+	
+endmodule  // check_conflict

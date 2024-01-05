@@ -1,0 +1,27 @@
+module tug_of_war_testbench();
+	logic [9:0] LEDR;
+	logic [6:0] HEX0;
+	logic [9:0] SW;
+	logic [3:0] KEY;
+	logic clk;
+	
+	parameter CLOCK_PERIOD = 100;
+	initial begin
+		clk <= 0;
+		forever #(CLOCK_PERIOD/2) clk <= ~clk;
+	end
+	
+	initial begin
+		
+		integer i;
+		@(posedge clk); reset <= 1;
+		@(posedge clk); reset <= 0;
+		for (i = 0; i < 16; i++) begin
+			@(posedge clk); in <= 1;
+		end
+		
+		$stop;
+	end
+		
+		
+endmodule  // tug_of_war_testbench

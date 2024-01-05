@@ -1,0 +1,6 @@
+
+State Machine - |tug_of_war|user_input:right_press|state_r
+Name state_r~3 state_r~2 
+state_r.e_zero 0 0 
+state_r.e_one 0 1 
+state_r.e_hold 1 0 

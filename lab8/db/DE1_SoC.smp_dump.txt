@@ -1,0 +1,1805 @@
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[14].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[13].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[12].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[11].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[10].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[9].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[8].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[7].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[6].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[5].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[4].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[3].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[2].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[14].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[13].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[12].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[11].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[10].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[9].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[8].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[7].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[6].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[5].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[4].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[3].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[2].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:center_grid_row[1].center_grid_col[1].light|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[14].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[14].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[13].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[13].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[12].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[12].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[11].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[11].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[10].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[10].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[9].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[9].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[8].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[8].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[7].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[7].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[6].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[6].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[5].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[5].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[4].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[4].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[3].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[3].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[2].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[2].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[1].bot_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:horizontal_bars[1].top_row|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[14].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[14].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[13].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[13].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[12].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[12].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[11].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[11].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[10].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[10].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[9].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[9].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[8].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[8].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[7].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[7].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[6].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[6].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[5].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[5].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[4].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[4].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[3].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[3].left_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[2].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:vertical_bars[1].right_col|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:bot_left|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:bot_right|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:top_right|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:head|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:thorax|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|snakes_and_apples:snake|grid_light:tail|state_r
+Name state_r~4 state_r~3 state_r~2 
+state_r.e_off 0 0 0 
+state_r.e_countdown 0 1 0 
+state_r.e_head 1 0 0 
+state_r.e_collision 1 1 1 
+
+State Machine - |lab8|apple_generator:gen|state_r
+Name state_r~3 state_r~2 
+state_r.e_empty 0 0 
+state_r.e_hold 0 1 
+state_r.e_active 1 1 
+
+State Machine - |lab8|direction:d|state_r
+Name state_r~3 state_r~2 
+state_r.e_down 0 0 
+state_r.e_up 1 0 
+state_r.e_right 0 1 
+state_r.e_left 1 1 

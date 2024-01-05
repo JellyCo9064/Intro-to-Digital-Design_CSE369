@@ -1,0 +1,52 @@
+module check_eating_light (
+	output logic eating,
+	,input logic left, up, right, down
+	,input logic [1:0] dir
+	);
+	
+	logic e;
+	
+	always_comb begin
+		
+		case(dir)
+			// LEFT
+			2'b00: begin
+				if (right) begin
+					e = 1'b1;
+				end else begin
+					e = 1'b0;
+				end
+			end
+			
+			// UP
+			2'b01: begin
+				if (down) begin
+					e = 1'b1;
+				end else begin
+					e = 1'b0;
+				end
+			end
+			
+			// RIGHT
+			2'b10: begin
+				if (left) begin
+					e = 1'b1;
+				end else begin
+					e = 1'b0;
+				end
+			end
+			
+			// DOWN
+			2'b11: begin
+				if (up) begin
+					e = 1'b1;
+				end else begin
+					e = 1'b0;
+				end
+			end
+			
+		endcase
+		
+	end
+	
+endmodule  // check_eating

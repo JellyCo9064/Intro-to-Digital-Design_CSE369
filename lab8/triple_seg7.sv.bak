@@ -1,0 +1,64 @@
+module triple_seg7 (
+	output logic [6:0] HEX0, HEX1, HEX2
+	,input logic [7:0] number
+	);
+	
+	always_comb begin
+		
+		// Ones digit
+		case (number[3:0])
+		
+			4'b0000: begin
+				HEX0 = ~7b'0111111;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0010: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+			4'b0001: begin
+				HEX0 = ~7'b0000110;
+			end
+		
+		endcase
+		
+	end
+	
+endmodule  // triple_seg7

@@ -1,0 +1,16 @@
+module victory (
+		output logic [6:0] HEX0
+		,output logic game_over
+		,input logic clk, reset
+		,input logic L, R, L4, R4
+	);
+	
+	
+	always_comb begin
+		ns = ps;
+		
+		if (L & ~R & L4)      ns = ~7'b0110000;
+		else if (~L & R & R4) ns = ~7'b1101101;
+	end
+	
+endmodule  // victory

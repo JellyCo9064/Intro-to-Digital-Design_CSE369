@@ -1,0 +1,237 @@
+|tug_of_war
+LEDR[0] <= normal_light:r4.light_on
+LEDR[1] <= normal_light:r3.light_on
+LEDR[2] <= normal_light:r2.light_on
+LEDR[3] <= normal_light:r1.light_on
+LEDR[4] <= center_light:c0.light_on
+LEDR[5] <= normal_light:l1.light_on
+LEDR[6] <= normal_light:l2.light_on
+LEDR[7] <= normal_light:l3.light_on
+LEDR[8] <= normal_light:l4.light_on
+LEDR[9] <= <GND>
+HEX0[0] <= victory:v0.HEX0[0]
+HEX0[1] <= victory:v0.HEX0[1]
+HEX0[2] <= victory:v0.HEX0[2]
+HEX0[3] <= victory:v0.HEX0[3]
+HEX0[4] <= victory:v0.HEX0[4]
+HEX0[5] <= victory:v0.HEX0[5]
+HEX0[6] <= victory:v0.HEX0[6]
+SW[0] => ~NO_FANOUT~
+SW[1] => ~NO_FANOUT~
+SW[2] => ~NO_FANOUT~
+SW[3] => ~NO_FANOUT~
+SW[4] => ~NO_FANOUT~
+SW[5] => ~NO_FANOUT~
+SW[6] => ~NO_FANOUT~
+SW[7] => ~NO_FANOUT~
+SW[8] => ~NO_FANOUT~
+SW[9] => SW[9].IN1
+KEY[0] => KEY[0].IN1
+KEY[1] => ~NO_FANOUT~
+KEY[2] => ~NO_FANOUT~
+KEY[3] => KEY[3].IN1
+CLOCK_50 => CLOCK_50.IN4
+
+
+|tug_of_war|dff_3:d0
+l_out <= buffer[0].DB_MAX_OUTPUT_PORT_TYPE
+r_out <= buffer[1].DB_MAX_OUTPUT_PORT_TYPE
+reset_out <= buffer[2].DB_MAX_OUTPUT_PORT_TYPE
+l_in => buffer[0].DATAIN
+r_in => buffer[1].DATAIN
+reset_in => buffer[2].DATAIN
+clk => buffer[0].CLK
+clk => buffer[1].CLK
+clk => buffer[2].CLK
+
+
+|tug_of_war|dff_3:d1
+l_out <= buffer[0].DB_MAX_OUTPUT_PORT_TYPE
+r_out <= buffer[1].DB_MAX_OUTPUT_PORT_TYPE
+reset_out <= buffer[2].DB_MAX_OUTPUT_PORT_TYPE
+l_in => buffer[0].DATAIN
+r_in => buffer[1].DATAIN
+reset_in => buffer[2].DATAIN
+clk => buffer[0].CLK
+clk => buffer[1].CLK
+clk => buffer[2].CLK
+
+
+|tug_of_war|user_input:left_press
+out <= out.DB_MAX_OUTPUT_PORT_TYPE
+in => state_n.e_one.DATAB
+in => Selector0.IN1
+in => state_r.DATAA
+clk => state_r~1.DATAIN
+reset => state_r.OUTPUTSELECT
+reset => state_r.OUTPUTSELECT
+reset => state_r.OUTPUTSELECT
+
+
+|tug_of_war|user_input:right_press
+out <= out.DB_MAX_OUTPUT_PORT_TYPE
+in => state_n.e_one.DATAB
+in => Selector0.IN1
+in => state_r.DATAA
+clk => state_r~1.DATAIN
+reset => state_r.OUTPUTSELECT
+reset => state_r.OUTPUTSELECT
+reset => state_r.OUTPUTSELECT
+
+
+|tug_of_war|normal_light:l4
+light_on <= ps.DB_MAX_OUTPUT_PORT_TYPE
+clk => ps.CLK
+reset => ps.OUTPUTSELECT
+L => always0.IN0
+L => always0.IN0
+L => always0.IN1
+R => always0.IN1
+R => always0.IN0
+R => always0.IN1
+NL => always0.IN1
+NR => always0.IN1
+game_over => ps.OUTPUTSELECT
+
+
+|tug_of_war|normal_light:l3
+light_on <= ps.DB_MAX_OUTPUT_PORT_TYPE
+clk => ps.CLK
+reset => ps.OUTPUTSELECT
+L => always0.IN0
+L => always0.IN0
+L => always0.IN1
+R => always0.IN1
+R => always0.IN0
+R => always0.IN1
+NL => always0.IN1
+NR => always0.IN1
+game_over => ps.OUTPUTSELECT
+
+
+|tug_of_war|normal_light:l2
+light_on <= ps.DB_MAX_OUTPUT_PORT_TYPE
+clk => ps.CLK
+reset => ps.OUTPUTSELECT
+L => always0.IN0
+L => always0.IN0
+L => always0.IN1
+R => always0.IN1
+R => always0.IN0
+R => always0.IN1
+NL => always0.IN1
+NR => always0.IN1
+game_over => ps.OUTPUTSELECT
+
+
+|tug_of_war|normal_light:l1
+light_on <= ps.DB_MAX_OUTPUT_PORT_TYPE
+clk => ps.CLK
+reset => ps.OUTPUTSELECT
+L => always0.IN0
+L => always0.IN0
+L => always0.IN1
+R => always0.IN1
+R => always0.IN0
+R => always0.IN1
+NL => always0.IN1
+NR => always0.IN1
+game_over => ps.OUTPUTSELECT
+
+
+|tug_of_war|center_light:c0
+light_on <= ps.DB_MAX_OUTPUT_PORT_TYPE
+clk => ps.CLK
+reset => always1.IN0
+L => always0.IN0
+L => always0.IN0
+L => always0.IN1
+R => always0.IN1
+R => always0.IN0
+R => always0.IN1
+NL => always0.IN1
+NR => always0.IN1
+game_over => always1.IN1
+
+
+|tug_of_war|normal_light:r1
+light_on <= ps.DB_MAX_OUTPUT_PORT_TYPE
+clk => ps.CLK
+reset => ps.OUTPUTSELECT
+L => always0.IN0
+L => always0.IN0
+L => always0.IN1
+R => always0.IN1
+R => always0.IN0
+R => always0.IN1
+NL => always0.IN1
+NR => always0.IN1
+game_over => ps.OUTPUTSELECT
+
+
+|tug_of_war|normal_light:r2
+light_on <= ps.DB_MAX_OUTPUT_PORT_TYPE
+clk => ps.CLK
+reset => ps.OUTPUTSELECT
+L => always0.IN0
+L => always0.IN0
+L => always0.IN1
+R => always0.IN1
+R => always0.IN0
+R => always0.IN1
+NL => always0.IN1
+NR => always0.IN1
+game_over => ps.OUTPUTSELECT
+
+
+|tug_of_war|normal_light:r3
+light_on <= ps.DB_MAX_OUTPUT_PORT_TYPE
+clk => ps.CLK
+reset => ps.OUTPUTSELECT
+L => always0.IN0
+L => always0.IN0
+L => always0.IN1
+R => always0.IN1
+R => always0.IN0
+R => always0.IN1
+NL => always0.IN1
+NR => always0.IN1
+game_over => ps.OUTPUTSELECT
+
+
+|tug_of_war|normal_light:r4
+light_on <= ps.DB_MAX_OUTPUT_PORT_TYPE
+clk => ps.CLK
+reset => ps.OUTPUTSELECT
+L => always0.IN0
+L => always0.IN0
+L => always0.IN1
+R => always0.IN1
+R => always0.IN0
+R => always0.IN1
+NL => always0.IN1
+NR => always0.IN1
+game_over => ps.OUTPUTSELECT
+
+
+|tug_of_war|victory:v0
+HEX0[0] <= Equal1.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[1] <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[2] <= Equal2.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[3] <= Equal1.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[4] <= Equal1.DB_MAX_OUTPUT_PORT_TYPE
+HEX0[5] <= <VCC>
+HEX0[6] <= Equal1.DB_MAX_OUTPUT_PORT_TYPE
+game_over <= Equal3.DB_MAX_OUTPUT_PORT_TYPE
+clk => state_r[0].CLK
+clk => state_r[1].CLK
+reset => state_r.OUTPUTSELECT
+reset => state_r.OUTPUTSELECT
+L => always0.IN0
+L => always0.IN0
+R => always0.IN1
+R => always0.IN1
+L4 => always0.IN1
+R4 => always0.IN1
+
+

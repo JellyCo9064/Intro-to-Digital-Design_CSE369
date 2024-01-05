@@ -1,0 +1,715 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:35:22 on May 09,2022
+# vlog -reportprogress 300 ./user_input_testbench.sv 
+# -- Compiling module user_input_testbench
+# 
+# Top level modules:
+# 	user_input_testbench
+# End time: 19:35:22 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:35:22 on May 09,2022
+# vlog -reportprogress 300 ./user_input.sv 
+# -- Compiling module user_input
+# 
+# Top level modules:
+# 	user_input
+# End time: 19:35:22 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -t 1ps -lib work user_input_testbench 
+# Start time: 19:35:23 on May 09,2022
+# Loading sv_std.std
+# Loading work.user_input_testbench
+# Loading work.user_input
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:proc:11: ::QStructure::sort .main_pane.structure 0 descending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 0 descending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 0 descending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 0 descending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlft5hy0y0".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft5hy0y0
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./user_input_testbench.sv(21)
+#    Time: 1750 ps  Iteration: 1  Instance: /user_input_testbench
+# Break in Module user_input_testbench at ./user_input_testbench.sv line 21
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:36:22 on May 09,2022
+# vlog -reportprogress 300 ./user_input_testbench.sv 
+# -- Compiling module user_input_testbench
+# 
+# Top level modules:
+# 	user_input_testbench
+# End time: 19:36:22 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:36:22 on May 09,2022
+# vlog -reportprogress 300 ./user_input.sv 
+# -- Compiling module user_input
+# 
+# Top level modules:
+# 	user_input
+# End time: 19:36:22 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:36:24 on May 09,2022, Elapsed time: 0:01:01
+# Errors: 14, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work user_input_testbench 
+# Start time: 19:36:24 on May 09,2022
+# Loading sv_std.std
+# Loading work.user_input_testbench
+# Loading work.user_input
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlft78jgvh".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft78jgvh
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./user_input_testbench.sv(21)
+#    Time: 1750 ps  Iteration: 1  Instance: /user_input_testbench
+# Break in Module user_input_testbench at ./user_input_testbench.sv line 21
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:37:45 on May 09,2022
+# vlog -reportprogress 300 ./user_input_testbench.sv 
+# -- Compiling module user_input_testbench
+# 
+# Top level modules:
+# 	user_input_testbench
+# End time: 19:37:45 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:37:45 on May 09,2022
+# vlog -reportprogress 300 ./user_input.sv 
+# -- Compiling module user_input
+# 
+# Top level modules:
+# 	user_input
+# End time: 19:37:45 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:37:48 on May 09,2022, Elapsed time: 0:01:24
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work user_input_testbench 
+# Start time: 19:37:48 on May 09,2022
+# Loading sv_std.std
+# Loading work.user_input_testbench
+# Loading work.user_input
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlftbx4sne".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftbx4sne
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./user_input_testbench.sv(30)
+#    Time: 950 ps  Iteration: 1  Instance: /user_input_testbench
+# Break in Module user_input_testbench at ./user_input_testbench.sv line 30
+DO Runlab.do
+# invalid command name "DO"
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:42:10 on May 09,2022
+# vlog -reportprogress 300 ./user_input_testbench.sv 
+# -- Compiling module user_input_testbench
+# 
+# Top level modules:
+# 	user_input_testbench
+# End time: 19:42:10 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:42:10 on May 09,2022
+# vlog -reportprogress 300 ./user_input.sv 
+# -- Compiling module user_input
+# 
+# Top level modules:
+# 	user_input
+# End time: 19:42:10 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:42:14 on May 09,2022, Elapsed time: 0:04:26
+# Errors: 1, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work user_input_testbench 
+# Start time: 19:42:14 on May 09,2022
+# Loading sv_std.std
+# Loading work.user_input_testbench
+# Loading work.user_input
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlftj537gi".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftj537gi
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./user_input_testbench.sv(33)
+#    Time: 1150 ps  Iteration: 1  Instance: /user_input_testbench
+# Break in Module user_input_testbench at ./user_input_testbench.sv line 33
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:42:38 on May 09,2022
+# vlog -reportprogress 300 ./user_input_testbench.sv 
+# -- Compiling module user_input_testbench
+# 
+# Top level modules:
+# 	user_input_testbench
+# End time: 19:42:38 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:42:38 on May 09,2022
+# vlog -reportprogress 300 ./user_input.sv 
+# -- Compiling module user_input
+# 
+# Top level modules:
+# 	user_input
+# End time: 19:42:38 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:42:40 on May 09,2022, Elapsed time: 0:00:26
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work user_input_testbench 
+# Start time: 19:42:40 on May 09,2022
+# Loading sv_std.std
+# Loading work.user_input_testbench
+# Loading work.user_input
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlftay7y89".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftay7y89
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./user_input_testbench.sv(32)
+#    Time: 1050 ps  Iteration: 1  Instance: /user_input_testbench
+# Break in Module user_input_testbench at ./user_input_testbench.sv line 32
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:49:16 on May 09,2022
+# vlog -reportprogress 300 ./normal_light_testbench.sv 
+# -- Compiling module normal_light_testbench
+# 
+# Top level modules:
+# 	normal_light_testbench
+# End time: 19:49:16 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:49:16 on May 09,2022
+# vlog -reportprogress 300 ./normal_light.sv 
+# -- Compiling module normal_light
+# 
+# Top level modules:
+# 	normal_light
+# End time: 19:49:16 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 19:49:18 on May 09,2022, Elapsed time: 0:06:38
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work normal_light_testbench 
+# Start time: 19:49:18 on May 09,2022
+# Loading sv_std.std
+# Loading work.normal_light_testbench
+# Loading work.normal_light
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlftq8iwv9".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftq8iwv9
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./normal_light_testbench.sv(63)
+#    Time: 2450 ps  Iteration: 1  Instance: /normal_light_testbench
+# Break in Module normal_light_testbench at ./normal_light_testbench.sv line 63
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:01:26 on May 09,2022
+# vlog -reportprogress 300 ./center_light_testbench.sv 
+# -- Compiling module center_light_testbench
+# 
+# Top level modules:
+# 	center_light_testbench
+# End time: 20:01:26 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:01:26 on May 09,2022
+# vlog -reportprogress 300 ./center_light.sv 
+# -- Compiling module center_light
+# 
+# Top level modules:
+# 	center_light
+# End time: 20:01:26 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 20:01:28 on May 09,2022, Elapsed time: 0:12:10
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work center_light_testbench 
+# Start time: 20:01:28 on May 09,2022
+# Loading sv_std.std
+# Loading work.center_light_testbench
+# Loading work.center_light
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlftik6r47".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftik6r47
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./center_light_testbench.sv(64)
+#    Time: 2550 ps  Iteration: 1  Instance: /center_light_testbench
+# Break in Module center_light_testbench at ./center_light_testbench.sv line 64
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:05:34 on May 09,2022
+# vlog -reportprogress 300 ./victory_testbench.sv 
+# -- Compiling module victory_testbench
+# 
+# Top level modules:
+# 	victory_testbench
+# End time: 20:05:34 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:05:34 on May 09,2022
+# vlog -reportprogress 300 ./victory.sv 
+# -- Compiling module victory
+# 
+# Top level modules:
+# 	victory
+# End time: 20:05:34 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 20:05:37 on May 09,2022, Elapsed time: 0:04:09
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work victory_testbench 
+# Start time: 20:05:37 on May 09,2022
+# Loading sv_std.std
+# Loading work.victory_testbench
+# Loading work.victory
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlftqhnv40".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftqhnv40
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./victory_testbench.sv(53)
+#    Time: 2050 ps  Iteration: 1  Instance: /victory_testbench
+# Break in Module victory_testbench at ./victory_testbench.sv line 53
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:10:23 on May 09,2022
+# vlog -reportprogress 300 ./center_light_testbench.sv 
+# -- Compiling module center_light_testbench
+# 
+# Top level modules:
+# 	center_light_testbench
+# End time: 20:10:24 on May 09,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:10:24 on May 09,2022
+# vlog -reportprogress 300 ./center_light.sv 
+# -- Compiling module center_light
+# 
+# Top level modules:
+# 	center_light
+# End time: 20:10:24 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 20:10:25 on May 09,2022, Elapsed time: 0:04:48
+# Errors: 3, Warnings: 3
+# vsim -voptargs=""+acc"" -t 1ps -lib work center_light_testbench 
+# Start time: 20:10:25 on May 09,2022
+# Loading sv_std.std
+# Loading work.center_light_testbench
+# Loading work.center_light
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlfty2z5qb".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfty2z5qb
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./center_light_testbench.sv(64)
+#    Time: 2550 ps  Iteration: 1  Instance: /center_light_testbench
+# Break in Module center_light_testbench at ./center_light_testbench.sv line 64
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:13:43 on May 09,2022
+# vlog -reportprogress 300 ./victory_testbench.sv 
+# -- Compiling module victory_testbench
+# 
+# Top level modules:
+# 	victory_testbench
+# End time: 20:13:43 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:13:43 on May 09,2022
+# vlog -reportprogress 300 ./victory.sv 
+# -- Compiling module victory
+# 
+# Top level modules:
+# 	victory
+# End time: 20:13:43 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 20:13:45 on May 09,2022, Elapsed time: 0:03:20
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work victory_testbench 
+# Start time: 20:13:45 on May 09,2022
+# Loading sv_std.std
+# Loading work.victory_testbench
+# Loading work.victory
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlfth4h6i0".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfth4h6i0
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./victory_testbench.sv(53)
+#    Time: 2050 ps  Iteration: 1  Instance: /victory_testbench
+# Break in Module victory_testbench at ./victory_testbench.sv line 53
+add wave -position end  sim:/victory_testbench/reset
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/there/OneDrive - UW/CSE 369/lab6/victory_wave.do}
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:14:13 on May 09,2022
+# vlog -reportprogress 300 ./victory_testbench.sv 
+# -- Compiling module victory_testbench
+# 
+# Top level modules:
+# 	victory_testbench
+# End time: 20:14:13 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:14:13 on May 09,2022
+# vlog -reportprogress 300 ./victory.sv 
+# -- Compiling module victory
+# 
+# Top level modules:
+# 	victory
+# End time: 20:14:13 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 20:14:16 on May 09,2022, Elapsed time: 0:00:31
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work victory_testbench 
+# Start time: 20:14:16 on May 09,2022
+# Loading sv_std.std
+# Loading work.victory_testbench
+# Loading work.victory
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlft97jhw6".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft97jhw6
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./victory_testbench.sv(53)
+#    Time: 2050 ps  Iteration: 1  Instance: /victory_testbench
+# Break in Module victory_testbench at ./victory_testbench.sv line 53
+add wave -position end  sim:/victory_testbench/reset
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/there/OneDrive - UW/CSE 369/lab6/victory_testbench_wave.do}
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:14:43 on May 09,2022
+# vlog -reportprogress 300 ./victory_testbench.sv 
+# -- Compiling module victory_testbench
+# 
+# Top level modules:
+# 	victory_testbench
+# End time: 20:14:43 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:14:43 on May 09,2022
+# vlog -reportprogress 300 ./victory.sv 
+# -- Compiling module victory
+# 
+# Top level modules:
+# 	victory
+# End time: 20:14:43 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 20:14:45 on May 09,2022, Elapsed time: 0:00:29
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work victory_testbench 
+# Start time: 20:14:45 on May 09,2022
+# Loading sv_std.std
+# Loading work.victory_testbench
+# Loading work.victory
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlft0ssryx".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft0ssryx
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./victory_testbench.sv(53)
+#    Time: 2050 ps  Iteration: 1  Instance: /victory_testbench
+# Break in Module victory_testbench at ./victory_testbench.sv line 53
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:25:32 on May 09,2022
+# vlog -reportprogress 300 ./tug_of_war_testbench.sv 
+# -- Compiling module tug_of_war_testbench
+# 
+# Top level modules:
+# 	tug_of_war_testbench
+# End time: 20:25:32 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:25:32 on May 09,2022
+# vlog -reportprogress 300 ./tug_of_war.sv 
+# -- Compiling module tug_of_war
+# 
+# Top level modules:
+# 	tug_of_war
+# End time: 20:25:32 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 20:25:34 on May 09,2022, Elapsed time: 0:10:49
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work tug_of_war_testbench 
+# Start time: 20:25:34 on May 09,2022
+# Loading sv_std.std
+# Loading work.tug_of_war_testbench
+# Loading work.tug_of_war
+# Loading work.dff_3
+# Loading work.user_input
+# Loading work.normal_light
+# Loading work.center_light
+# Loading work.victory
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlft9q6rbd".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft9q6rbd
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./tug_of_war_testbench.sv(68)
+#    Time: 3250 ps  Iteration: 1  Instance: /tug_of_war_testbench
+# Break in Module tug_of_war_testbench at ./tug_of_war_testbench.sv line 68
+add wave -position 4  sim:/tug_of_war_testbench/clk
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/there/OneDrive - UW/CSE 369/lab6/tug_of_war_testbench_wave.do}
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:27:46 on May 09,2022
+# vlog -reportprogress 300 ./tug_of_war_testbench.sv 
+# -- Compiling module tug_of_war_testbench
+# 
+# Top level modules:
+# 	tug_of_war_testbench
+# End time: 20:27:46 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:27:46 on May 09,2022
+# vlog -reportprogress 300 ./tug_of_war.sv 
+# -- Compiling module tug_of_war
+# 
+# Top level modules:
+# 	tug_of_war
+# End time: 20:27:46 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 20:27:49 on May 09,2022, Elapsed time: 0:02:15
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work tug_of_war_testbench 
+# Start time: 20:27:49 on May 09,2022
+# Loading sv_std.std
+# Loading work.tug_of_war_testbench
+# Loading work.tug_of_war
+# Loading work.dff_3
+# Loading work.user_input
+# Loading work.normal_light
+# Loading work.center_light
+# Loading work.victory
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlft2wnz39".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft2wnz39
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./tug_of_war_testbench.sv(68)
+#    Time: 3250 ps  Iteration: 1  Instance: /tug_of_war_testbench
+# Break in Module tug_of_war_testbench at ./tug_of_war_testbench.sv line 68
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/there/OneDrive - UW/CSE 369/lab6/tug_of_war_testbench_wave.do}
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:30:29 on May 09,2022
+# vlog -reportprogress 300 ./tug_of_war_testbench.sv 
+# -- Compiling module tug_of_war_testbench
+# 
+# Top level modules:
+# 	tug_of_war_testbench
+# End time: 20:30:29 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:30:29 on May 09,2022
+# vlog -reportprogress 300 ./tug_of_war.sv 
+# -- Compiling module tug_of_war
+# 
+# Top level modules:
+# 	tug_of_war
+# End time: 20:30:29 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 20:30:34 on May 09,2022, Elapsed time: 0:02:45
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work tug_of_war_testbench 
+# Start time: 20:30:34 on May 09,2022
+# Loading sv_std.std
+# Loading work.tug_of_war_testbench
+# Loading work.tug_of_war
+# Loading work.dff_3
+# Loading work.user_input
+# Loading work.normal_light
+# Loading work.center_light
+# Loading work.victory
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlftj4t6w1".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftj4t6w1
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./tug_of_war_testbench.sv(66)
+#    Time: 4950 ps  Iteration: 1  Instance: /tug_of_war_testbench
+# Break in Module tug_of_war_testbench at ./tug_of_war_testbench.sv line 66
+add wave -position end  sim:/tug_of_war_testbench/LEDR[8]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[7]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[6]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[5]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[4]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[3]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[2]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[1]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[0]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[8]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[7]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[6]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[5]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[4]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[3]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[2]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[1]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[0]
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:45:41 on May 09,2022
+# vlog -reportprogress 300 ./tug_of_war_testbench.sv 
+# -- Compiling module tug_of_war_testbench
+# 
+# Top level modules:
+# 	tug_of_war_testbench
+# End time: 20:45:41 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:45:41 on May 09,2022
+# vlog -reportprogress 300 ./tug_of_war.sv 
+# -- Compiling module tug_of_war
+# 
+# Top level modules:
+# 	tug_of_war
+# End time: 20:45:41 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 20:45:46 on May 09,2022, Elapsed time: 0:15:12
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work tug_of_war_testbench 
+# Start time: 20:45:46 on May 09,2022
+# Loading sv_std.std
+# Loading work.tug_of_war_testbench
+# Loading work.tug_of_war
+# Loading work.dff_3
+# Loading work.user_input
+# Loading work.normal_light
+# Loading work.center_light
+# Loading work.victory
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlft4awis7".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft4awis7
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./tug_of_war_testbench.sv(70)
+#    Time: 5950 ps  Iteration: 1  Instance: /tug_of_war_testbench
+# Break in Module tug_of_war_testbench at ./tug_of_war_testbench.sv line 70
+add wave -position end  sim:/tug_of_war_testbench/LEDR[8]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[7]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[6]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[5]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[4]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[3]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[2]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[1]
+add wave -position end  sim:/tug_of_war_testbench/LEDR[0]
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/there/OneDrive - UW/CSE 369/lab6/tug_of_war_testbench_wave.do}
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:02:42 on May 09,2022
+# vlog -reportprogress 300 ./dff_3_testbench.sv 
+# -- Compiling module dff_3_testbench
+# 
+# Top level modules:
+# 	dff_3_testbench
+# End time: 21:02:42 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:02:42 on May 09,2022
+# vlog -reportprogress 300 ./dff_3.sv 
+# -- Compiling module dff_3
+# 
+# Top level modules:
+# 	dff_3
+# End time: 21:02:42 on May 09,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 21:02:44 on May 09,2022, Elapsed time: 0:16:58
+# Errors: 0, Warnings: 2
+# vsim -voptargs=""+acc"" -t 1ps -lib work dff_3_testbench 
+# Start time: 21:02:44 on May 09,2022
+# Loading sv_std.std
+# Loading work.dff_3_testbench
+# Loading work.dff_3
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlfta6657c".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfta6657c
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./dff_3_testbench.sv(20)
+#    Time: 750 ps  Iteration: 1  Instance: /dff_3_testbench
+# Break in Module dff_3_testbench at ./dff_3_testbench.sv line 20
+# End time: 21:22:02 on May 09,2022, Elapsed time: 0:19:18
+# Errors: 0, Warnings: 2

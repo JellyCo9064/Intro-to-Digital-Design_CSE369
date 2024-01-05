@@ -1,0 +1,12 @@
+module user_input (
+		output logic l_out, r_out, reset_out
+		,input logic l_in, r_in, reset_in, clk
+	);
+	
+	always_ff @(posedge clk) begin
+		l_out <= l_in;
+		r_out <= r_in;
+		reset_out <= reset_in;
+	end
+	
+endmodule  // user_input

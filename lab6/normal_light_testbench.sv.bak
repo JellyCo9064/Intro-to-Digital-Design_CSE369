@@ -1,0 +1,17 @@
+module normal_light_testbench (
+	output logic light_on
+	,input logic clk, reset
+	,input logic L, R, NL, NR
+	);
+	
+	normal_light dut(.light_on, .clk, .reset, .L, .R, .NL, .NR);
+	
+	parameter CLOCK_PERIOD = 100;
+	initial begin
+		clk <= 0;
+		forever #(CLOCK_PERIOD/2) clk <= ~clk;
+	end
+	
+	
+	
+endmodule  // normal_light_testbench

@@ -1,0 +1,8 @@
+module counter_testbench();
+
+	logic count;
+	logic win, reset;
+	
+	counter dut(.out(count), .win, .reset, .clk); 
+
+endmodule  //counter_testbench

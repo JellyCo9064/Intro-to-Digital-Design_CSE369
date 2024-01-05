@@ -1,0 +1,13 @@
+module apple_generator(
+	output logic [15:0][15:0] red
+	,input logic [15:0][15:0] grn
+	,input logic random, clk, reset
+	);
+	
+	logic [15:0] open_row;
+	logic [15:0] open_col;
+	
+	open_row[0] = ~(grn[0][0] & grn[0][1] & grn[0][2] & grn[0][3] & grn[0][4] & grn[0][5] & grn[0][6] & grn[0][7] &
+						 grn[0][8] & grn[0][9] & grn[0][01] & grn[0][11] & grn[0][12] & grn[0][13] & grn[0][14] & grn[0][15]);
+	
+endmodule  // apple_generator

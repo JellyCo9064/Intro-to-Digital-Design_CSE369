@@ -1,0 +1,16 @@
+module length (
+	output logic [7:0] length
+	,input logic inc
+	,input logic clk, reset
+	);
+	
+	always_ff @(posedge clk) begin
+		if (reset)
+			length <= 8'b00000000;
+		else if (inc)
+			length <= length + 1;
+		else
+			length <= length;
+	end
+	
+endmodule  // length

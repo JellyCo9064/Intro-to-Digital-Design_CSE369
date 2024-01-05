@@ -1,0 +1,13 @@
+module counter(
+	output [2:0] out
+	,input win, clk, reset
+	);
+	
+	always_ff @(posedge clk) begin
+		if (reset)
+			out <= 0;
+		else if (win)
+			out <= out + 1;
+	end
+	
+endmodule  //counter

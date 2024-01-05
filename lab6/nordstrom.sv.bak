@@ -1,0 +1,7 @@
+module lab3 (
+    output logic [0:0] LEDR
+	 ,input logic [3:0] SW
+	 );
+	 
+	
+endmodule

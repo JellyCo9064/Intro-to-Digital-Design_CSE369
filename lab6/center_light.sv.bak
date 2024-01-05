@@ -1,0 +1,23 @@
+module center_light (
+	output logic light_on
+	,input logic clk, reset
+	,input logic L, R, NL, NR
+	);
+	
+	logic ps, ns;
+	
+	always_comb begin
+		
+		if (ps & (L ^ R)) begin ns = 0;
+		end else if (~ps & ((NL & R & ~L) | (NR & L & ~R))) begin ns = 1;
+		end else begin ns = ps; end
+		
+		light_on = ps;
+	end
+	
+	always_ff @(posedge clk) begin
+		if (reset) ps <= 0;
+		else ps <= ns;
+	end
+	
+endmodule  // center_light

@@ -1,0 +1,86 @@
+module grid_light (
+	output logic light_on
+	,input logic left, up, right, down, count
+	,input logic [1;0] dir
+	,input logic clk, reset
+	);
+	
+	typedef enum logic [2:0]
+	{
+		e_off = 3'b000
+		,e_head = 3'b100
+		,e_apple = 3'b001
+		,e_countdown = 3'b010
+		,e_collision = 3'b111
+	} state_e;
+	
+	state_e state_n, state_r;
+	
+	always_comb begin
+		if (count != 0)
+			light_on = 1'b1;
+		else
+			light_on = 1'b0;
+			
+		case(dir)
+			// LEFT
+			2'b00: begin
+				if (right) begin
+					if (light_on)
+						state_n = e_collision;
+					else
+						// sample length, turn on
+				end else begin
+					state_n = e_off;
+				end
+			end
+			
+			// UP
+			2'b01: begin
+				if (down) begin
+					if (light_on)
+						state_n = e_collision;
+					else
+						// sample length, turn on
+				end else begin
+					state_n = e_off;
+				end
+			end
+			
+			// RIGHT
+			2'b10: begin
+				if (left) begin
+					if (light_on)
+						state_n = e_collision;
+					else
+						// sample length, turn on
+				end else begin
+					state_n = e_off;
+				end
+			end
+			
+			// DOWN
+			2'b11: begin
+				if (up) begin
+					if (light_on)
+						state_n = e_collision;
+					else
+						// sample length, turn on
+				end else begin
+					state_n = e_off;
+				end
+			end
+			
+		endcase
+			
+	end
+	
+	always_ff @(posedge clk) begin
+		if (reset) begin
+			state_r <= e_off;
+		end else begin
+			state_r <= state_n;
+		end
+	end
+	
+endmodule  // grid_light

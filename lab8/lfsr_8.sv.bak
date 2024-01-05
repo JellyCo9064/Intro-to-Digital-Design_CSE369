@@ -1,0 +1,13 @@
+module lfsr_8 (
+	output logic [7:0] out
+	,input logic clk, reset
+	);
+	
+	always_ff @(posedge clk) begin
+		if (reset)
+			out <= 8'b0;
+		else
+			out <= {out[6:0], ~(out[8] ^ out[6] ^ out[5] ^ out[4])};
+	end
+	
+endmodule  //lfsr_9

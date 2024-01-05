@@ -1,0 +1,41 @@
+# Reading C:/intelFPGA_lite/17.0/modelsim_ase/tcl/vsim/pref.tcl
+do runlab.doq
+# Cannot open macro file: runlab.doq
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:30:09 on May 03,2022
+# vlog -reportprogress 300 ./seatac_testbench.sv 
+# -- Compiling module seatac_testbench
+# 
+# Top level modules:
+# 	seatac_testbench
+# End time: 14:30:10 on May 03,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:30:10 on May 03,2022
+# vlog -reportprogress 300 ./seatac.sv 
+# -- Compiling module seatac
+# 
+# Top level modules:
+# 	seatac
+# End time: 14:30:10 on May 03,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs=""+acc"" -t 1ps -lib work seatac_testbench 
+# Start time: 14:30:10 on May 03,2022
+# Loading sv_std.std
+# Loading work.seatac_testbench
+# Loading work.seatac
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: there  Hostname: HEIBAI  ProcessID: 11688
+#           Attempting to use alternate WLF file "./wlftys6a8j".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftys6a8j
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : ./seatac_testbench.sv(38)
+#    Time: 1450 ps  Iteration: 1  Instance: /seatac_testbench
+# Break in Module seatac_testbench at ./seatac_testbench.sv line 38
+# End time: 14:40:13 on May 03,2022, Elapsed time: 0:10:03
+# Errors: 0, Warnings: 2

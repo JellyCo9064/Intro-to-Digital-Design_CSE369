@@ -1,0 +1,13 @@
+module counter256(
+	output logic [7:0] count
+	,input logic dec, clk, reset
+	);
+
+	always_ff @(posedge clk) begin
+		if (reset)
+			count <= 8'b0;
+		else if (win)
+			count <= count + 8'b00000001;
+	end
+	
+endmodule  //counter

@@ -1,0 +1,8 @@
+module fred (
+	output logic [6:0] HEX5, HEX4, HEX3, HEX2, HEX1, HEX0
+	,input logic [2:0] SW
+	);
+	
+	upc_desc description (.HEX5, .HEX4, .HEX3, .HEX2, .HEX1, .HEX0, .U(SW[2]), .P(SW[1]), .C(SW[0]));
+	
+endmodule  // fred

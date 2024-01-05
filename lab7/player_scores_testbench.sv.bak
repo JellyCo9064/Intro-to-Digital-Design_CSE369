@@ -1,0 +1,31 @@
+module player_scores_testbench();
+
+	logic [6:0] HEX0, HEX3;
+	
+	logic L, R, game_over, clk, reset;
+	
+	player_scores dut(.HEX0, .HEX3, .L, .R, .game_over, .clk, .reset);
+	
+	parameter CLOCK_PERIOD = 100;
+	initial begin
+		clk <= 0;
+		forever #(CLOCK_PERIOD/2) clk <= ~clk;
+	end
+	
+	initial begin
+		@(posedge clk) reset <= 1;
+		@(posedge clk) reset <= 0;
+		
+		@(posedge clk) L <= 0; R <= 0; game_over <= 1;
+		@(posedge clk) L <= 1; R <= 0; game_over <= 1;
+		@(posedge clk) L <= 0; R <= 1; game_over <= 1;
+		@(posedge clk) L <= 1; R <= 1; game_over <= 1;
+		
+		@(posedge clk) L <= 0; R <= 0; game_over <= 0;
+		@(posedge clk) L <= 1; R <= 0; game_over <= 0;
+		@(posedge clk) L <= 0; R <= 1; game_over <= 0;
+		@(posedge clk) L <= 1; R <= 1; game_over <= 0;
+		
+	end
+
+endmodule;

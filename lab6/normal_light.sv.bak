@@ -1,0 +1,25 @@
+module normal_light (
+	output logic light_on
+	,input logic clock, reset
+	,input logic L, R, NL, NR
+	);
+	
+	logic ps, ns;
+	
+	always_comb begin
+		ns = ps;
+		
+		if (L ^ R) begin
+			if (~NL & L | ~NR + R) ns = 0;
+			else if (NL & R | NR & L) ns = 1;
+		end
+		
+		light_on = ns;
+	end
+	
+	always_ff @(posedge clk) begin
+		if (reset) ps = 0;
+		else ps = ns;
+	end
+	
+endmodule  // normal_light

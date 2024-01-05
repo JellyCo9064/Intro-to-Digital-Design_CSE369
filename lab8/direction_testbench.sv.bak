@@ -1,0 +1,64 @@
+module direction_testbench();
+
+	logic [1:0] dir;
+	logic left, up, right, down;
+	logic clk, reset;
+	
+	direction dut (.dir, .left, .up, .right, .down, .clk, .reset);
+	
+	parameter CLOCK_PERIOD = 100;
+	initial begin
+		clk <= 0;
+		#(CLOCK_PERIOD / 2) clk <= ~clk;
+	end
+	
+	initial begin
+	
+		integer i;
+		
+		@(posedge clk); reset <= 1;
+		@(posedge clk); reset <= 0;
+		
+		// DOWN
+		for (i = 0; i < 16; i++) begin
+			{left, up, right, down} <= i;
+			if (~(left ^ right))
+				@(posedge clk);
+		end
+		
+		@(posedge clk); {left, up, right, down} <= 4'b1000;
+		
+		// LEFT
+		for (i = 0; i < 16; i++) begin
+			{left, up, right, down} <= i;
+			if (~(up ^ down))
+				@(posedge clk);
+		end
+		
+		@(posedge clk); {left, up, right, down} <= 4'b0100;
+		
+		// UP
+		for (i = 0; i < 16; i++) begin
+			{left, up, right, down} <= i;
+			if (~(left ^ right))
+				@(posedge clk);
+		end
+		
+		@(posedge clk); {left, up, right, down} <= 4'b0010;
+		
+		// RIGHT
+		for (i = 0; i < 16; i++) begin
+			{left, up, right, down} <= i;
+			if (~(up ^ down))
+				@(posedge clk);
+		end
+		
+		@(posedge clk); {left, up, right, down} <= 4'b0001;
+		
+		@(posedge clk);
+		@(posedge clk);
+		@(posedge clk);
+	
+	end
+
+endmodule  // direction_testbench
